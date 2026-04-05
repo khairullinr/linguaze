@@ -1,4 +1,3 @@
-# Linguaze
 This app works without an account. Your learning progress (favorites, strengths, settings) is stored locally on your device.
 
 1) Data we store
